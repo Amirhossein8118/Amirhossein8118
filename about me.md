@@ -1,4 +1,0 @@
-- 👋 Hi, I’m amirhossein
-- :) my id is @Amirhossein8118
-- 👀 I’m interested in codeing
-- 🌱 I’m currently learning java script
