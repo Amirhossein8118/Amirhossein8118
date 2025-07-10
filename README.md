@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amirhossein
 - :) my id is @Amirhossein8118
 - 👀 I’m interested in codeing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning git & github
 - ⚡ Fun fact: if the code works Do not touck it! :)
 
 <!---
