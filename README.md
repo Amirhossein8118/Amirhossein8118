@@ -1,7 +1,5 @@
 <div align="center">
-  <div style="border-radius: 50%;overflow: hidden">
-    <img src="https://avatars.githubusercontent.com/u/139480289?v=4" width="120px" alt="Amirhossein's profile"/>
-  </div>
+  <img src="https://avatars.githubusercontent.com/u/139480289?v=4" width="120px" alt="Amirhossein's profile"/>
   <h1>Hi there 👋, I'm Amirhossein</h1>
   <p><i>Passionate about coding, learning, and creating meaningful experiences 🌱</i></p>
 </div>
