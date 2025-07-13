@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/139480289?v=4" width="120px" alt="Amirhossein's profile"/>
   <h1>Hi there 👋, I'm Amirhossein</h1>
   <p><i>Passionate about coding, learning, and creating meaningful experiences 🌱</i></p>
 </div>
@@ -22,6 +21,7 @@ Feel free to connect or reach out:
 
 - Instagram: [`@amiraeone`](https://www.instagram.com/amiraeone/)
 - Telegram: [`@Amiraeone`](https://t.me/amiraeone)
+- Linkedin: [amirhossein sadeghi](www.linkedin.com/in/amirhossein-sadeghi-099a05282)
 - Email: `sadeghi.workmail313@gmail.com`
 
 ---
