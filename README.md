@@ -15,6 +15,14 @@
 
 ---
 
+### 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,javascript,git,github,vscode" />
+</p>
+
+---
+
 ### 📫 How to reach me
 
 Feel free to connect or reach out:
