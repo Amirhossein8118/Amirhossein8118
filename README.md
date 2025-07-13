@@ -1,10 +1,41 @@
-- 👋Hi, I’m Amirhossein
-- :) my id is @Amirhossein8118
-- 👀 I’m interested in codeing
-- 🌱 I’m currently learning git & github
-- ⚡ Fun fact: if the code works Do not touck it! :)
+<div align="center">
+  <div style="border-radius: 50%;overflow: hidden">
+    <img src="https://avatars.githubusercontent.com/u/139480289?v=4" width="120px" alt="Amirhossein's profile"/>
+  </div>
+  <h1>Hi there 👋, I'm Amirhossein</h1>
+  <p><i>Passionate about coding, learning, and creating meaningful experiences 🌱</i></p>
+</div>
 
-<!---
-Amirhossein8118/Amirhossein8118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧑‍💻 About Me
+
+- 💡 I’m currently exploring the world of **React library**
+- 💻 I enjoy building and experimenting with code
+- 🛠️ I'm learning **front-end development** step by step
+- 🔗 My GitHub ID: `@Amirhossein8118`
+- ⚡ Fun fact: *If the code works, don’t touch it!* 😄
+
+---
+
+### 📫 How to reach me
+
+Feel free to connect or reach out:
+
+- Instagram: [`@amiraeone`](https://www.instagram.com/amiraeone/)
+- Telegram: [`@Amiraeone`](https://t.me/amiraeone)
+- Email: `sadeghi.workmail313@gmail.com`
+
+---
+
+### 🚀 My Goals
+
+- 🌐 Build beautiful and responsive websites
+- 🎯 Launch meaningful personal and collaborative projects
+- 🧠 Keep learning and growing every day
+
+---
+
+### ❤️ Support
+
+If you like what I do, maybe consider giving a ⭐ to my repositories and following my journey!
