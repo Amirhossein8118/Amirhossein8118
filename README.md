@@ -30,7 +30,7 @@ Feel free to connect or reach out:
 - Instagram: [`@amiraeone`](https://www.instagram.com/amiraeone/)
 - Telegram: [`@Amiraeone`](https://t.me/amiraeone)
 - Linkedin: [amirhossein sadeghi](www.linkedin.com/in/amirhossein-sadeghi-099a05282)
-- Email: `sadeghi.workmail313@gmail.com`
+- Email: `amiraeone@gmail.com`
 
 ---
 
