@@ -5,7 +5,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - 💡 I’m currently exploring the world of **React library**
 - 💻 I enjoy building and experimenting with code
@@ -15,12 +15,26 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,javascript,git,github,vscode" />
-</p>
+### languages
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react" />
+
+### UI / Styling
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
+
+
+### Additional Skills
+- React Query  
+- React Hook Form  
+- Axios  
+- API Integration  
 ---
 
 ### 📫 How to reach me
@@ -31,15 +45,6 @@ Feel free to connect or reach out:
 - Telegram: [`@Amiraeone`](https://t.me/amiraeone)
 - Linkedin: [amirhossein sadeghi](www.linkedin.com/in/amirhossein-sadeghi-099a05282)
 - Email: `amiraeone@gmail.com`
-
----
-
-### 🚀 My Goals
-
-- 🌐 Build beautiful and responsive websites
-- 🎯 Launch meaningful personal and collaborative projects
-- 🧠 Keep learning and growing every day
-
 ---
 
 ### ❤️ Support
