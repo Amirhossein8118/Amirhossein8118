@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=react,next" />
 
 ### UI / Styling
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
