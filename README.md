@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react,next" />
 
 ### UI / Styling
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
@@ -31,8 +31,8 @@
 
 
 ### Additional Skills
-- React Query  
-- React Hook Form  
+- React Query
+- redux  
 - Axios  
 - API Integration  
 ---
